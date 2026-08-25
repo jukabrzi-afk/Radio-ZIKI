@@ -1,8 +1,0 @@
-Copyright © 2026 — Radio Ziki (Autor)
-
-Sav kod, dizajn, funkcije i sadržaj ovog projekta su isključivo moje privatno vlasništvo.
-Zabranjeno je kopiranje, mijenjanje, dijeljenje, objavljivanje ili korištenje ovog koda
-bez moje izričite dozvole.
-
-Ovaj projekat je namijenjen isključivo za moje lično korištenje.
-Sva prava zadržana.
